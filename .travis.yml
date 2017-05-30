@@ -4,3 +4,5 @@ scripti:
   - ./test.sh
   - echo "test same"
   - ./test_same.sh
+  - echo "test same2"
+  - ./test_same2.sh
