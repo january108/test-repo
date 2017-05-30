@@ -1,0 +1,4 @@
+language: negeric
+script
+  - echo "test script"
+  - ./test.sh
