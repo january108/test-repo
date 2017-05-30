@@ -1,4 +1,4 @@
-language: negeric
+language: generic
 script
   - echo "test script"
   - ./test.sh
