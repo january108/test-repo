@@ -2,3 +2,5 @@ language: generic
 scripti:
   - echo "test script"
   - ./test.sh
+  - echo "test same"
+  - ./test_same.sh
